@@ -12,7 +12,7 @@ lang: en-US
 title: "Barely Chewed!"
 
 # A description of your site for meta tag, search engine results.
-description: "Food is what bring is together. And sometimes it's so good...you forget to chew! We enjoy great dining experiences and want you to enjoy it too. These are our reviews. "
+description: "Food is what brings us together. And sometimes it's so good...you forget to chew! We enjoy great dining experiences and want you to enjoy it too. These are our reviews. "
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: /

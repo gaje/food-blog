@@ -36,7 +36,7 @@ The Salmon Belly was beyond tender. Chewing was not necessary because it just me
 
 The Wagyu dumplings were amazing. We had Wagyu dumplings at [Sushi Samba](https://www.sushisamba.com/locations/usa/las-vegas) in Vegas that were the best I've ever had, and these were right up there with them. Couldn't get enough of the broth they were served in.
 
-The Wagyu hot rock was fantastic as well. There was an A5 Wagyu that was on the Specials menu, but we opted for the standard Wagyu Ny Strip off the menu. Wagyu doesn't need much more than a quick sear, so it was nice cookign it ourselves on the hot stone. It came with a side of melted butter (we poured it on the stone so that it didnt stick) and a small pile of what was likely just salt & pepper, but may have been salt/pepper/garlic or some other blend of seasonings to sprinkle on. 10 out of 10.
+The Wagyu hot rock was fantastic as well. There was an A5 Wagyu that was on the Specials menu, but we opted for the standard Wagyu Ny Strip off the menu. Wagyu doesn't need much more than a quick sear, so it was nice cooking it ourselves on the hot stone. It came with a side of melted butter (we poured it on the stone so that it didn't stick) and a small pile of what was likely just salt & pepper, but may have been salt/pepper/garlic or some other blend of seasonings to sprinkle on. 10 out of 10.
 
 After that we were still a big hungry, so we asked Brian what sushi roll he recommended. He said the Salmon Roll was his favorite, so we went with it - and it did not disappoint!
 
