@@ -16,7 +16,7 @@ description: "Food is what bring is together. And sometimes it's so good...you f
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: /
-url: http://gaje.github.io
+url: https://barelychewed.com
 
 
 # Favicon
