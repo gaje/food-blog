@@ -1,0 +1,16 @@
+<div class="rating-container">
+    <div class="rating-box">
+        <div class="rating">{{page.rating}} / 10</div>
+        {% if page.rating <=3 %}
+        <div class="rating-summary">Don't waste your money.</div>
+        {% elsif page.rating <= 5 %}
+        <div class="rating-summary">Could Be Better!</div>
+        {% elsif page.rating <= 7 %}
+        <div class="rating-summary">Pretty Average</div>
+        {% elsif page.rating <= 9 %}
+        <div class="rating-summary">Amazing!</div>
+        {% elsif page.rating == 10 %}
+        <div class="rating-summary">Best of the best.</div>
+        {% endif %}
+    </div>
+</div>

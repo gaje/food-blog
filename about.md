@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+title: About Us
+description: About Us
+feature_image: images/food/charcuterie.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+> I'm excited by any food that's prepared by someone who's proud of what they're doing, who puts a personal imprint on food. -- Anthony Bourdain
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+We're just regular people who love **good food**. We are not chefs nor are we restaurant owners, but we know what makes a great food experience (and we also know what makes an awful experience!) Our goal is to provide honest restaurant reviews from the worst to the best dining experiences wherever we go!
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Mainly focused in Dallas/Fort-Worth (DFW) Texas, we've been lucky enough to eat at places all over the country, and we love trying new places! 
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+Want us to review a restaurant? Please contact us and let us know!
 
 *Thank You for reading!*
