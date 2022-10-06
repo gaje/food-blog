@@ -22,7 +22,7 @@ First thing we noticed when walking in was the decor. Clean. Modern. Elegant - b
 
 We glanced over the menu and ordered some Sake to sip on, and I immediately noticed this was not your typical sushi restaurant with 50 different sushi rolls. When it comes to menus, the smaller the menu the higher quality the food tends to be. Ever been to The Cheesecake Factory? 
 
-Our waiter, Brian, was fantastic. We asked him about the Omakase and how it worked, but he wasn't very sure (they haven't been open very long so I'd imagine they're still working out a lot of details) and got the owner/manager to come over and explain it to us. We were a bit bummed that we couldn't try it that day, but the regular menu looked like it a lot of options regardless. I'm a big fan of the "What do you recommend?" question, and Brian pointed out some of his favorites - so we ordered all of them:
+Our waiter, Brian, was fantastic. We asked him about the Omakase and how it worked, but he wasn't very sure (they haven't been open very long so I'd imagine they're still working out a lot of details) and got the owner/manager to come over and explain it to us. We were a bit bummed that we couldn't try it that day, but the regular menu looked like it had a lot of options regardless. I'm a big fan of the "What do you recommend?" question, and Brian pointed out some of his favorites - so we ordered all of them:
 
 Off the Cold Tasting menu, we ordered **Hirame Usuzukuri** and the **Salmon Belly Carpaccio**.
 
