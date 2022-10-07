@@ -4,7 +4,7 @@ title: "Nikkō: An Elevated Take on Sushi"
 description: "A work at home parent is an entrepreneur who works from home and integrates parenting into his or her business activities."
 date: 2022-10-02
 feature_image: images/food/nikko-main.jpeg 
-tags: [sushi, japanese]
+tags: [sushi, japanese, southlake, texas, best restaurant]
 rating: 10
 ---
 
