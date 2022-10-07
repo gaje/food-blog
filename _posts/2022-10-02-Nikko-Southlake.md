@@ -30,16 +30,28 @@ Off of the Hot Tasting menu, we ordered the **Wagyu Dumplings** and the **Wagyu 
 
 Each one of these were beautifully plated and on point. 
 
-The Hirame was served with some sort of onion/tomato/pepper salad that was super fresh and paired perfectly with the sashimi. 
+The Hirame was served with some sort of onion/tomato/pepper salad that was super fresh and paired perfectly with the sashimi.
+
+![Hirame Usuzukuri](images/food/nikko-hirame-usuzukuri.jpg)
+*Hirame Usuzukuri*
 
 The Salmon Belly was beyond tender. Chewing was not necessary because it just melted in your mouth. 
+
+![Salmon Belly Carpaccio](images/food/nikko-salmon-belly-carpaccio.jpg)
+*Salmon Belly Carpaccio*
 
 The Wagyu dumplings were amazing. We had Wagyu dumplings at [Sushi Samba](https://www.sushisamba.com/locations/usa/las-vegas) in Vegas that were the best I've ever had, and these were right up there with them. Couldn't get enough of the broth they were served in.
 
 The Wagyu hot rock was fantastic as well. There was an A5 Wagyu that was on the Specials menu, but we opted for the standard Wagyu Ny Strip off the menu. Wagyu doesn't need much more than a quick sear, so it was nice cooking it ourselves on the hot stone. It came with a side of melted butter (we poured it on the stone so that it didn't stick) and a small pile of what was likely just salt & pepper, but may have been salt/pepper/garlic or some other blend of seasonings to sprinkle on. 10 out of 10.
 
+![Wagyu Hot Rock](images/food/nikko-wagyu.jpg)
+*Wagyu Hot Rock*
+
 After that we were still a big hungry, so we asked Brian what sushi roll he recommended. He said the Salmon Roll was his favorite, so we went with it - and it did not disappoint!
 
 Brian then asked if we had room for dessert and honestly we weren't even thinking dessert, but we asked what they had. The options were cheesecake or what was described to us as "crêpe with yams". Not going to lie, it sounded bizarre, and I was expecting a breakfast crêpe. But then Brian said "People come here just for this dessert", so we knew that we had to try it. HOLYSHIT. It might be my new favorite dessert. First off, when he brought it to our table it looked nothing like I had expected. It was a slice of "cake" with dozens of layers. Also, it was **purple**. Again, I was expecting a thin breakfast pancake with sweet potatoes in it (I honestly didn't know what to expect) -- not a purple yam layer cake! Growing up my mother used to make homemade rice pudding, and that was my favorite dessert in the world. The reason I'm bringing that up is because that's exactly what it tasted like! In fact, we both said "it tastes like rice pudding!" at the same time. 
+
+![Ube Mille Crepe Cake](images/food/nikko-ube-mille-crepe-cake.jpg)
+*Ube Mille Crepe Cake*
 
 Pricing is where I would expect it to be. Sushi is never really cheap, nor do I think I would want cheap sushi. You get what you pay for, but this certainly exceeded my expectations. 
