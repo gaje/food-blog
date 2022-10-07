@@ -54,4 +54,6 @@ Brian then asked if we had room for dessert and honestly we weren't even thinkin
 ![Ube Mille Crepe Cake](images/food/nikko-ube-mille-crepe-cake.jpg)
 *Ube Mille Crepe Cake*
 
-Pricing is where I would expect it to be. Sushi is never really cheap, nor do I think I would want cheap sushi. You get what you pay for, but this certainly exceeded my expectations. 
+Pricing is where I would expect it to be. Sushi is never really cheap, nor do I think I would want cheap sushi. You get what you pay for, and this place certainly exceeded my expectations. 
+
+In summary, this place was top-notch and one of our favorite places we've ever been. We'll definitely return and highly recommend it to anyone who loves sushi and can appreciate a place that's that takes a big step above the norm. 
