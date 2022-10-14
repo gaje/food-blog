@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nikkō: An Elevated Take on Sushi"
-description: "A work at home parent is an entrepreneur who works from home and integrates parenting into his or her business activities."
+description: "Nikko Southlake is a Japanese sushi restaurant in Southlake TX with great food and great atmosphere!"
 date: 2022-10-02
 feature_image: images/food/nikko-main.jpeg 
 tags: [sushi, japanese, southlake, texas, best restaurant]
